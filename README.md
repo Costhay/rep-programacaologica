@@ -24,7 +24,7 @@ Repositório destinado às atividades desenvolvidas na disciplina de : Lógica d
 **◼︎ 03 - Exercícios de fixação e aprendizado - L3**  
     ♦︎ Case: Aplicação de todos os temas da L1, em um case onde recebe-se uma lista de transações de uma empresa, é criado um script que processe essas transações, verifica a integridade dos dados e calcula o saldo final, com regras rígidas de segurança.  
 <br>
-**- 04 - Desafio estudo de caso: A Crise da Startup TechInvest**  
+**◼︎ 04 - Desafio estudo de caso: A Crise da Startup TechInvest**  
     ♦︎ Case fictício da startup TechInvest, que precisa criar o “Prime”, um robô-analista em Python para atender clientes e orientar investimentos sem uso de banco de dados. O programa coleta dados financeiros, analisa a situação do usuário, identifica seu perfil de risco e sugere investimentos com base em regras condicionais. Também projeta objetivos futuros considerando disciplina e tempo de investimento.  
 <br>
 **◼︎ 05 - Desafio: Processamento de Dados de Vendas**  
