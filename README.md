@@ -12,19 +12,19 @@ Repositório destinado às atividades desenvolvidas na disciplina de **Lógica d
 - ♦︎ Exercício 2 – Operadores de Atribuição  
 - ♦︎ Exercício 3 – Operadores de Comparação  
 - ♦︎ Exercício 4 – Operadores Lógicos  
-- ♦︎ Exercício 5 – Operadores de Identidade (`is`, `is not`)  
-- ♦︎ Exercício 6 – Operadores de Associação (`in`, `not in`)  
-- ♦︎ Exercício 7 – Estrutura Condicional (`if`, `elif`, `else`)  
-- ♦︎ Exercício 8 – Estrutura de Repetição `for`  
-- ♦︎ Exercício 9 – Estrutura de Repetição `while`  
+- ♦︎ Exercício 5 – Operadores de Identidade (is, is not)  
+- ♦︎ Exercício 6 – Operadores de Associação (in, not in)  
+- ♦︎ Exercício 7 – Estrutura Condicional (if, elif, else)  
+- ♦︎ Exercício 8 – Estrutura de Repetição for  
+- ♦︎ Exercício 9 – Estrutura de Repetição`while  
 
 ---
 
 ### ◼︎ 02 - Exercícios de Fixação e Aprendizado – L2
 
 - ♦︎ Exercício 1 – Integração: Operadores + Condicionais  
-- ♦︎ Exercício 2 – Integração: `for` + Operadores de Associação  
-- ♦︎ Exercício 3 – Integração: `while` + Condicionais + Atribuição  
+- ♦︎ Exercício 2 – Integração: for + Operadores de Associação  
+- ♦︎ Exercício 3 – Integração: while + Condicionais + Atribuição  
 - ♦︎ Exercício 4 – Integração: Identidade + Coleções Simples  
 
 ---
@@ -67,10 +67,10 @@ Repositório destinado às atividades desenvolvidas na disciplina de **Lógica d
 
   **Requisitos técnicos utilizados:**
   - Funções  
-  - `while`  
-  - `for`  
+  - while  
+  - for  
   - Listas e Tuplas  
-  - Condicionais (`if/elif/else`)  
+  - Condicionais (if/elif/else)  
   - Operadores  
 
 ---
